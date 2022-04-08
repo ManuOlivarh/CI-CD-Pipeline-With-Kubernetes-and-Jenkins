@@ -28,3 +28,6 @@ c) Install Jenkins
 sudo apt update
 sudo apt install jenkins
 ```
+
+
+----PENDING
